@@ -1,6 +1,15 @@
 # Trofeu da Maratona PPCI
 
-## 1. Modelos
+## 1. Modelos V2
+
+- Primero lugar: 55% do tamanho do modelo 3D original
+- Segundo lugar: 50% do tamanho do modelo 3D original
+- Terceiro lugar: 45% do tamanho do modelo 3D original
+
+
+![trofeu](images/modelos_v2.png)
+
+## 2. Modelos V1
 
 - Primero lugar: 55% do tamanho do modelo 3D original
 - Segundo lugar: 50% do tamanho do modelo 3D original
@@ -8,7 +17,7 @@
 
 ![trofeu](images/modelos.png)
 
-## 2. Como imprimir
+## 3. Como imprimir
 
 ![trofeu](images/ultimaker.png)
 
